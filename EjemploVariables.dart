@@ -1,4 +1,4 @@
-oid main()
+void main()
 {  
   int edad=12;
 double peso=45.3;
